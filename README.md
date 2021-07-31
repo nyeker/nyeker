@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Are you ready to deploy your first  project to Vercel? Click & Go!
+
+<a href="https://vercel.com/new/project?template=https://github.com/nyeker/nyeker"><img src="https://vercel.com/button"></a>
