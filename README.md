@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://avatars.githubusercontent.com/u/84197993?s=96&v=4">
 Are you ready to deploy your first  project? Click & Go!
 
 
