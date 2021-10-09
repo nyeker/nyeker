@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://avatars.githubusercontent.com/u/84197993?s=96&v=4">
 Are you ready to deploy your first  project? Click & Go!
-https://vercel.com/new/clone?s=https://github.com/nyeker/nyeker
-https://dashboard.heroku.com/new-app?button-url=https://github.com/nyeker/nyeker
 
